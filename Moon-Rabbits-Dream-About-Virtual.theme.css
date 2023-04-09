@@ -53,7 +53,7 @@
     --bg-gradient1: #e297b2;
     --bg-gradient2: #c0b4d5;
     --bg-gradient3: #54b5de;
-    --bg-image: url ("https://cdn.discordapp.com/attachments/868639547502784512/1094523125347131502/IMG_2853.jpg"); /* Write the image url, example url("your url") [none is default]*/
+    --bg-image: url("https://cdn.discordapp.com/attachments/868639547502784512/1094523125347131502/IMG_2853.jpg"); /* Write the image url, example url("your url") [none is default]*/
     --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
 
